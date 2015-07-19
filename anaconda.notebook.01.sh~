@@ -1,0 +1,2 @@
+
+docker run -p 8888:8888 -i -t -v /home2/yannick2/github:/home/data rothnic/anaconda-notebook
